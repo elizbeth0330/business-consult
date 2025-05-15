@@ -19,7 +19,7 @@ header {
 /* section 1 */
 .section1 {
     /* margin: 0 2rem 0 2rem; */
-    padding: 0 10%;
+    padding: 0 20%;
 }
 .section1 h1 {
     font-size: 3rem;
@@ -84,7 +84,7 @@ button:hover {
    margin: 0;
 }
 .section2 {
-    padding: 0 10%;
+    padding: 0 20%;
     margin: 0;
 }
 .section2 h1 {
@@ -119,7 +119,7 @@ button:hover {
 }
 .section3 {
     color: #fff;
-    padding: 0 10%;
+    padding: 0 20%;
     margin: 0;
 }
 .section3 h1 {
